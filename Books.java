@@ -1,6 +1,6 @@
 class Books
 {
-  // variables
+  // attributes:
   private
   private
   private
