@@ -1,5 +1,5 @@
 class User{
-  // variables:
+  // attributes:
   private:
   private:
   private:
