@@ -18,3 +18,4 @@ CREATE TABLE users (
     first_name VARCHAR(15) NOT NULL,
     last_name VARCHAR(15)
 );
+
