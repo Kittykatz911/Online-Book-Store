@@ -1,2 +1,2 @@
 # Online-Book-Store
-First attempt using tomcat and maven to create a web applitcation.
+An online bookstore project using Java, HTML, CSS, JavaScript, Java Servlet, MySQL, and  aTomcat server.
