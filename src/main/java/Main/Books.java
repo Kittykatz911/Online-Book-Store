@@ -1,3 +1,7 @@
+package Main;
+
+import database.DataBaseConnection; // unload contents of DataBaseConnection.java
+
 class Books
 {
   // attributes:
@@ -68,42 +72,42 @@ class Books
 
   //Accessors:
 
-  public getTitle()
+  public String getTitle()
   {
     return Title;
   }
 
-  public getAuthor()
+  public String getAuthor()
   {
     return Author;
   }
 
-  public getGenre()
+  public String getGenre()
   {
     return Genre;
   }
 
-  public getPrice()
+  public Double getPrice()
   {
     return Price;
   }
 
-  public getPublished()
+  public int getPublished()
   {
     return Published;
   }
 
-  public getReferenceNumber()
+  public int getReferenceNumber()
   {
     return ReferenceNumber;
   }
 
-  public getAvailableCopies()
+  public int getAvailableCopies()
   {
     return availableCopies;
   }
 
-  public getIsAvailable()
+  public boolean getIsAvailable()
   {
     return IsAvailable;
   }
