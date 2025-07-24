@@ -23,15 +23,15 @@ class Users
   // Constructors:
   public Users()
   {
-    username = "";
-    password = "";
+    Username = "";
+    Password = "";
     FirstName = "";
     LastName = "";
-    email = "";
+    Email = "";
     Books = "";
-    balance = 0.0;
-    userID = 0;
-    gems = 0;
+    Balance = 0.0;
+    UserID = 0;
+    Gems = 0;
     NumBooks = 0;
   }
 
